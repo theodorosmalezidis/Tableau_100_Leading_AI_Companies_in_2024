@@ -2,7 +2,7 @@
 
 ## Info-Data
 
- Another project that waw initiated from my involvement in the market and investments, combined with my strong interest in the AI industry. AI companies are not only the driving force behind the rise of stock market indexes, but they also represent the hottest sector for the next decade. As AI continues to expand, it will play a crucial role in every industry and aspect of our daily lives.
+ Another project that was initiated from my involvement in the market and investments, combined with my strong interest in the AI industry. AI companies are not only the driving force behind the rise of stock market indexes, but they also represent the hottest sector for the next decade. As AI continues to expand, it will play a crucial role in every industry and aspect of our daily lives.
 
 With this in mind, I wanted to explore the major players shaping the AI revolution and visualize their impact through this Tableau dashboard.
 
